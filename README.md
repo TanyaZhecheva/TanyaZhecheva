@@ -20,4 +20,17 @@ Aside programming, i like to draw, watch movies, play video games, go on walks a
 - **LinkedIn**: [Tanya Zhecheva](https://www.linkedin.com/in/tanya-zhecheva/)
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TanyaZhecheva&show_icons=true&theme=dark&title_color=ff69b4&text_color=ff69b4"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TanyaZhecheva&show_icons=true&title_color=ff69b4&text_color=000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanyaZhecheva&show_icons=true&title_color=ff69b4&text_color=000000" />
+</picture>
+
+
 Feel free to reach out to me! I'm always open to new opportunities and collaborations. :handshake:
