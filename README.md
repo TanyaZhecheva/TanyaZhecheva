@@ -1,8 +1,7 @@
 
 ## About Me :wave:
 
-Hello! I'm Tanya and i am 23 years old. I`ve recently graduated from the intense 6-month [Telerik Academy](https://www.telerikacademy.com/)  JavaScript course :man_technologist: <br>
-A very difficult and challenging journey, that covers the fundamentals of programming, upgrades your soft skills, making real-like projects and working with teams. <br>
+Hello! I'm Tanya, and I am 23 years old. I've recently graduated from the intensive 6-month [Telerik Academy](https://www.telerikacademy.com/) JavaScript course :woman_technologist: <br> This challenging journey covered the fundamentals of programming, enhanced my soft skills, involved creating real-world projects, and emphasized teamwork.
 Aside programming, i like to draw, watch movies, play video games, go on walks and if there is an oportunity i sometimes read books 📖
 
 ## Skills :rocket:
