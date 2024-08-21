@@ -7,7 +7,7 @@ Aside programming, i like to draw, watch movies, play video games, go on walks a
 ## Skills :rocket:
 
 - **Languages**: JavaScript
-- **Frameworks**: React
+- **Frameworks**: React, Angular
 - **Tools**: Git
 - **Libraries**: Daisy-UI, Chakra-UI, Tailwind
 - **Data base**: Firebase
