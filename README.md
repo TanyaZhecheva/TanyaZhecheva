@@ -9,7 +9,7 @@ Aside programming, i like to draw, watch movies, play video games, go on walks a
 - **Languages**: JavaScript
 - **Frameworks**: React, Angular
 - **Tools**: Git
-- **Libraries**: Daisy-UI, Chakra-UI, Tailwind
+- **Libraries**: Daisy-UI, Chakra-UI, Tailwind, PrimeNG
 - **Data base**: Firebase
 
 
